@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-photon",
-  "description": "Gatsby Starter - Photon",
+  "name": "gatsby-portfolio",
+  "description": "Portfolio",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Mark Crisostomo",
   "dependencies": {
     "gatsby": "^1.9.243",
     "gatsby-link": "^1.6.40",
