@@ -64,7 +64,7 @@ class Homepage extends React.Component {
                               <li>Redux</li>
                               <li>TypeScript</li>
                           </ul>
-                          <p>Technologies/Frameworks I've used/currenlty learning:</p>
+                          <p>Technologies I've used/currently learning:</p>
                           <ul>
                               <li>NodeJS</li>
                               <li>Kotlin</li>
