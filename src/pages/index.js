@@ -70,7 +70,7 @@ class Homepage extends React.Component {
                               <li>Kotlin</li>
                               <li>Java</li>
                               <li>Flutter</li>
-                              <li>Golangc</li>
+                              <li>Golang</li>
                           </ul>
                       </div>
                   </div>
